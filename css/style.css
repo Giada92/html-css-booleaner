@@ -1,0 +1,33 @@
+header {
+    height: 100px;
+    width: 100%;
+    background-image: url("/img/pattern.png");
+    background-color: rgba(0, 0, 225, 0.5);
+}
+
+.testata-titolo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    color: #FFFFFF;
+}
+
+.the{
+    font-size: 20px;
+}
+
+.titolo-articolo {
+    font-size: 35px;;
+}
+
+#autore {
+    color: skyblue;
+}
+
+.sottotitolo {
+    color: lightslategray;
+}
+
+#data {
+    font-size: 12px;
+    color: lightslategray;
+}
