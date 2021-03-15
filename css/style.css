@@ -1,14 +1,12 @@
 header {
-    height: 100px;
+    height: 180px;
     width: 100%;
-    background-image: url("/img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-color: rgba(0, 0, 225, 0.5);
 }
 
-.testata-titolo {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 100;
-    color: #FFFFFF;
+.logo {
+    width: 20%;
 }
 
 .the{
@@ -32,10 +30,48 @@ header {
     color: lightslategray;
 }
 
-figcaption {
+.descrizione-foto {
     font-size: 12px;
 }
 
 #evidenziato {
     background-color: yellow;
 }
+
+thead {
+    background-color: rgb(32, 82, 82);
+    text-align: left;
+}
+
+/* th, td {
+    padding: 15px;
+} */
+
+.colore-righe {
+    background-color: cyan;
+}
+
+.text-align {
+    text-align: justify;
+}
+
+.footer-testo {
+    color: darkgray;
+}
+
+.footer-img {
+    background-image: url("../img/monitor.jpg");
+    width: 300px;
+    height: 200px;    
+}
+
+.footer-img2 {
+    background-image: url("../img/graph.jpg");
+    width: 300px;
+    height: 200px;    
+}
+
+div > h3 {
+    color: white;
+}
+
