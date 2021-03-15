@@ -5,6 +5,13 @@ header {
     background-color: rgba(0, 0, 225, 0.5);
 }
 
+/* Parametri per centrare la pagina */
+main, footer {
+    width: 1500px;
+    margin: auto;
+}
+/* Parametri per centrare la pagina */
+
 .logo {
     width: 20%;
     margin-top: 80px;;
